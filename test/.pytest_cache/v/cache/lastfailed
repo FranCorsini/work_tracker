@@ -1,0 +1,5 @@
+{
+  "test_model.py::TestWorkHours::()::test_dependency_exception": true,
+  "test_model.py::TestWorkHours::()::test_user_workhours_relation_db": true,
+  "test_model.py::test_db_sanity_check_rollback": true
+}

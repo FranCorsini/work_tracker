@@ -1,0 +1,6 @@
+[
+  "test_controller.py::TestWorkHours::()::test_user_workhours_creation_logic",
+  "test_controller.py::TestWorkHours::()::test_workhours_count_hours_logic",
+  "test_model.py::TestWorkHours::()::test_user_workhours_relation_db",
+  "test_model.py::test_db_sanity_check_rollback"
+]
